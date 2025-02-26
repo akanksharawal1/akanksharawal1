@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akanksharawal
-- 👀 I’m interested in Python programming, web development, and problem-solving.
+- 👋 Hi, I’m @akanksharawal1
+- 👀 I’m interested in Python programming and Web developmennt.
 - 🌱 I’m currently learning Python, data structures & algorithms, and web development.
 - 💞️ I’m looking to collaborate on open-source projects, Python projects, and web development initiatives.
 - 📫 How to reach me akanksharawal974@gmail.com
